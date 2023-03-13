@@ -10,3 +10,8 @@
 .logo img{
   height: 70px;
 }
+
+li{
+ float:left;
+ list-style:none;
+}
