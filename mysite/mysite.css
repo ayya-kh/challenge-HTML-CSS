@@ -1,18 +1,18 @@
-.header-haikei{
-  background-color: #EC715F;
-}
-
-.test{
-  height: 70px;
-  width: 1024px;
-}
+/*.header-haikei{*/
+/*  background-color: #EC715F;*/
+/*}*/
 
 .logo img{
   height: 70px;
 }
 
-li{
- float:left;
- list-style:none;
- 
+ul .list{
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
 }
+
+/*li{*/
+/* float:left;*/
+/* list-style:none;*/
+/*}*/
