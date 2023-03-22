@@ -1,21 +1,23 @@
 .header-haikei{
+  display: flex;
+  justify-content: space-between;
+  font-size: 0;
   background-color: #EC715F;
 }
 
-.logo img{
+.logo{
   height: 70px;
-  float:left;
 }
 
 .nav{
-  width: 700px;
   display: flex;
-  justify-content: space-around;
 }
 
-.list{
-  width: 50%;
+.nav-list-item{
+  width: 120px;
+  line-height: 70px;
+  color: #FAFAFA;
+  padding: 0 30px;
   list-style: none;
-  display: flex;
-  justify-content: space-around;
+  font-size: 16px;
 }
