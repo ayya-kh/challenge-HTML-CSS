@@ -1,23 +1,24 @@
-.header-haikei{
-  display: flex;
-  justify-content: space-between;
-  font-size: 0;
-  background-color: #EC715F;
-}
+/*.header-haikei{*/
+/*  display: flex;*/
+/*  justify-content: space-between;*/
+/*  font-size: 0;*/
+/*  background-color: #EC715F;*/
+/*  height: 70px;*/
+/*}*/
 
-.logo{
-  height: 70px;
-}
+/*.logo{*/
+/*  height: 70px;*/
+/*}*/
 
-.nav{
-  display: flex;
-}
+/*.nav{*/
+/*  display: flex;*/
+/*}*/
 
-.nav-list-item{
-  width: 120px;
-  line-height: 70px;
-  color: #FAFAFA;
-  padding: 0 30px;
-  list-style: none;
-  font-size: 16px;
-}
+/*.nav-list-item{*/
+/*  width: 120px;*/
+/*  line-height: 70px;*/
+/*  color: #FAFAFA;*/
+/*  padding: 0 30px;*/
+/*  list-style: none;*/
+/*  font-size: 16px;*/
+/*}*/
