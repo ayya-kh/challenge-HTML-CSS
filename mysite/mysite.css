@@ -1,21 +1,40 @@
-.header-haikei{
-  background-color: #EC715F;
-  height: 70px;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/*.logo img{*/
-/*  font-size: 70px;*/
-/*}*/
+.header-top{
+  background-color: #EC715F;
+  justify-content: space-between;
+  font-size: 0;
+  display: flex
+}
 
-/*.nav{*/
-/*  display: flex;*/
-/*}*/
+.list{
+  display: flex;
+}
 
-/*.nav-list-item{*/
-/*  width: 120px;*/
-/*  line-height: 70px;*/
+.nav-list-item{
+  width: 120px;
+  line-height: 70px;
+  color: #FAFAFA;
+  padding: 0 30px;
+  font-size: 16px;
+  list-style: none;
+  text-decoration: none;
+}
+
+
+/*.list li {*/
 /*  color: #FAFAFA;*/
-/*  padding: 0 30px;*/
-/*  list-style: none;*/
-/*  font-size: 16px;*/
 /*}*/
+
+
+/*.header-haikei li{*/
+  
+/*  */
+/*  padding: 0 30px;*/
+
+/*  font-size: 16px;*/
+/*}  */
