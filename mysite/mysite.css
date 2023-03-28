@@ -8,7 +8,8 @@
   background-color: #EC715F;
   justify-content: space-between;
   font-size: 0;
-  display: flex
+  display: flex;
+  /*width: 1024px;*/
 }
 
 .list{
@@ -18,7 +19,6 @@
 .nav-list-item{
   width: 120px;
   line-height: 70px;
-  color: #FAFAFA;
   padding: 0 30px;
   font-size: 16px;
   list-style: none;
@@ -26,9 +26,10 @@
 }
 
 
-/*.list li {*/
-/*  color: #FAFAFA;*/
-/*}*/
+a{
+  color: white;
+  text-decoration: none;
+}
 
 
 /*.header-haikei li{*/
